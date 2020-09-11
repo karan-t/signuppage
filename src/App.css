@@ -1,12 +1,12 @@
-.App {
+.app {
   text-align: center;
 }
 
-.App-logo {
+.app-logo {
   height: 40vmin;
 }
 
-.App-header {
+.app-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -23,14 +23,13 @@
   border-color: #007bff;
 }
 
-.headER{
+.header {
   font-weight: 100;
   font-family: revert;
   font-size: large;
 }
 
-.footerLabel{
+.footer-label {
   text-align: center;
   opacity: 50%;
 }
-

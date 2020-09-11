@@ -1,6 +1,6 @@
 {
-  "name": "SignUp page",
-  "version": "1.0",
+  "name": "signup_page",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
