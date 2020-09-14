@@ -45,7 +45,6 @@ html,
   justify-content: center;
   flex-direction: column;
   text-align: left;
-  opacity: 100%;
 }
 
 .auth-inner {
@@ -59,7 +58,6 @@ html,
   padding-left: 55px;
   border-radius: 6px;
   transition: all .3s;
-  opacity: 100%;
 }
 
 .auth-wrapper .form-control:focus {
@@ -116,7 +114,6 @@ html,
     padding-left: 55px;
     border-radius: 6px;
     transition: all .3s;
-    opacity: 100%;
   }
 
   p.footer-label {
