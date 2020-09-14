@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/signuppage/static/css/main.9c4a488a.chunk.css",
+    "main.js": "/signuppage/static/js/main.b0bdfb1a.chunk.js",
+    "main.js.map": "/signuppage/static/js/main.b0bdfb1a.chunk.js.map",
+    "runtime-main.js": "/signuppage/static/js/runtime-main.24e1f699.js",
+    "runtime-main.js.map": "/signuppage/static/js/runtime-main.24e1f699.js.map",
+    "static/css/2.0624914a.chunk.css": "/signuppage/static/css/2.0624914a.chunk.css",
+    "static/js/2.5fb0208b.chunk.js": "/signuppage/static/js/2.5fb0208b.chunk.js",
+    "static/js/2.5fb0208b.chunk.js.map": "/signuppage/static/js/2.5fb0208b.chunk.js.map",
+    "index.html": "/signuppage/index.html",
+    "precache-manifest.8899cb635bc749f233d5603c5850af14.js": "/signuppage/precache-manifest.8899cb635bc749f233d5603c5850af14.js",
+    "service-worker.js": "/signuppage/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/signuppage/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.9c4a488a.chunk.css.map": "/signuppage/static/css/main.9c4a488a.chunk.css.map",
+    "static/media/index.css": "/signuppage/static/media/background.0c0d8c2d.png"
+  }
+}
